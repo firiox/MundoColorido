@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ Write\ a\ description\ of\ class\ Triangle\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=point1\ point2\ point3
+comment1.target=Triangle(Publisher.Library.Point2D,\ Publisher.Library.Point2D,\ Publisher.Library.Point2D)
+comment2.params=
+comment2.target=java.util.ArrayList\ getPointTriangle()
+comment3.params=point
+comment3.target=void\ addPoinst(java.util.ArrayList)
+comment4.params=x\ y
+comment4.target=void\ translate(int,\ int)
+numComments=5

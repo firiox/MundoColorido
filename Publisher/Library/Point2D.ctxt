@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Point2D
+comment0.text=\n\ Write\ a\ description\ of\ class\ Point2D\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=x\ y
+comment1.target=Point2D(int,\ int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=x
+comment4.target=void\ setX(int)
+comment5.params=y
+comment5.target=void\ setY(int)
+comment6.params=
+comment6.target=int[]\ getVectorP2D()
+comment7.params=x1\ y1
+comment7.target=void\ translate(int,\ int)
+comment8.params=d
+comment8.target=void\ scale(int)
+comment9.params=angle
+comment9.target=void\ rotePoint(double)
+numComments=11

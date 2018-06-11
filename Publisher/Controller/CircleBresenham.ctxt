@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=CircleBresenham
+comment0.text=\n\ Write\ a\ description\ of\ class\ CircleBresenham\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=pointCenter\ radio
+comment1.target=CircleBresenham(Publisher.Library.Point2D,\ int)
+comment10.params=x\ y
+comment10.target=void\ translation(int,\ int)
+comment2.params=
+comment2.target=CircleBresenham()
+comment3.params=
+comment3.target=java.util.ArrayList\ getPoint2DCircle()
+comment4.params=
+comment4.target=java.util.ArrayList\ calcule()
+comment5.params=radioNew
+comment5.target=java.util.ArrayList\ extension(int)
+comment6.params=pointNew
+comment6.target=void\ setPointCenter(Publisher.Library.Point2D)
+comment7.params=
+comment7.target=Publisher.Library.Point2D\ getPointCenter()
+comment8.params=
+comment8.target=int\ getRadio()
+comment9.params=radio
+comment9.target=void\ setRadio(int)
+numComments=11

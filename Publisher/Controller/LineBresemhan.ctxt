@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=LineBresemhan
+comment0.text=\n\ Write\ a\ description\ of\ class\ LineBresemhan\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=point1\ point2
+comment1.target=LineBresemhan(Publisher.Library.Point2D,\ Publisher.Library.Point2D)
+comment10.params=
+comment10.target=java.util.ArrayList\ getPoints()
+comment11.params=x\ y
+comment11.target=void\ translate(int,\ int)
+comment2.params=
+comment2.target=Publisher.Library.Point2D\ getPoint1()
+comment3.params=
+comment3.target=Publisher.Library.Point2D\ getPoint2()
+comment4.params=p1\ p2
+comment4.target=void\ setPoint12(Publisher.Library.Point2D,\ Publisher.Library.Point2D)
+comment5.params=
+comment5.target=void\ drawLine()
+comment6.params=p1\ p2
+comment6.target=int\ distands(Publisher.Library.Point2D,\ Publisher.Library.Point2D)
+comment7.params=d
+comment7.target=void\ scale(int)
+comment8.params=d
+comment8.target=void\ pointDistands(int)
+comment9.params=
+comment9.target=void\ emtyPoint()
+numComments=12
